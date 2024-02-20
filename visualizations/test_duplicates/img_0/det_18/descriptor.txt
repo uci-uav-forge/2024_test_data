@@ -1,0 +1,69 @@
+
+        TargetDescription(
+            Shapes:
+                circle: 0.000
+                semicircle: 0.000
+                quartercircle: 0.000
+                triangle: 0.000
+                rectangle: 0.000
+                pentagon: 0.000
+                star: 0.440
+                cross: 0.000
+                person: 0.000
+            Letters:
+                0: 0.001
+                1: 0.023
+                2: 0.006
+                3: 0.001
+                4: 0.023
+                5: 0.001
+                6: 0.058
+                7: 0.003
+                8: 0.002
+                9: 0.009
+                A: 0.012
+                B: 0.007
+                C: 0.121
+                D: 0.001
+                E: 0.067
+                F: 0.181
+                G: 0.007
+                H: 0.001
+                I: 0.005
+                J: 0.001
+                K: 0.013
+                L: 0.015
+                M: 0.012
+                N: 0.029
+                O: 0.181
+                P: 0.069
+                Q: 0.009
+                R: 0.001
+                S: 0.003
+                T: 0.008
+                U: 0.051
+                V: 0.014
+                W: 0.001
+                X: 0.062
+                Y: 0.003
+                Z: 0.000
+            Shape Colors:
+                red: 0.000
+                green: 0.123
+                blue: 0.134
+                orange: 0.119
+                purple: 0.195
+                white: 0.166
+                black: 0.045
+                brown: 0.219
+            Letter Colors:
+                red: 0.000
+                green: 0.137
+                blue: 0.143
+                orange: 0.106
+                purple: 0.185
+                white: 0.092
+                black: 0.088
+                brown: 0.247
+        )
+        
