@@ -1,0 +1,5 @@
+person 115,0,30
+cross,7,black,purple -50,0,35
+rectangle,Z,blue,brown 20,0,30
+semicircle,L,red,brown -20,0,-65
+quartercircle,3,brown,purple -80,0,-65
