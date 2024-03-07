@@ -1,0 +1,4 @@
+test
+# test is the folder we drag in the IRL data from roboflow in for the conversion script
+data.yaml
+# data.yaml is created by roboflow to give us the class names
